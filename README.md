@@ -8,3 +8,4 @@ with node js app and
 docker image srv/testapp1:03
 
 which is running on port 5050
+.
